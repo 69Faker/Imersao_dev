@@ -1,6 +1,0 @@
-AIzaSyCFt0CJenEpmhUA6gvTezDnFz-5fI57euc
-
-user: Thiago
-senha: 123tga123tga
-
-mongodb+srv://Thiago:123tga123tga@cluster0.cmhg3.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
